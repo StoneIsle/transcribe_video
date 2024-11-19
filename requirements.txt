@@ -1,0 +1,6 @@
+#git+https://github.com/openai/whisper.git
+ffmpeg-python
+transformers>=4.33.0
+torch
+setuptools
+torchaudio
